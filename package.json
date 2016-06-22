@@ -1,0 +1,33 @@
+ {
+    "name": "file-metadata-ms",
+    "version": "1.0.0",
+    "description": "This is simple Nodejs server that ouputs the size of the file uploaded",
+    "main": "app.js",
+    "repository": {
+        "type": "git",
+        "url":"git+https://github.com/bunnyvishal6/file-metadata-ms"
+    },
+    "author": "Bunny Vishal",
+    "homepage": "https://www.bunnyvishal.com",
+    "keywords": [
+        "full stack",
+        "Node",
+        "javascript",
+        "file",
+        "metadata",
+        "microservice"
+    ],
+    "scripts": {
+        "start": "node app.js"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": "4.4.5",
+        "npm": "3.9.5"
+    },
+    "dependencies": {
+        "express": "^4.13.4",
+        "multer": "^1.1.0"
+    }
+    
+}
