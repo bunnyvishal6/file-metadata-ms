@@ -1,6 +1,6 @@
 # File Metadata Microservice
 
-## This is simple Nodejs server that ouputs the size of the file uploaded in bytes
+## This is simple Nodejs server that serves the size of the file uploaded in bytes in JSON format
 
 ## Example usage:
 
